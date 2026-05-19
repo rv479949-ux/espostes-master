@@ -1,4 +1,4 @@
-# espostes-master
+# esportes-master
 Construção de site ph,p, js, css3 - Basquete
 
 ./css/style.css
