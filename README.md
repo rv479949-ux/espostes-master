@@ -1,5 +1,5 @@
 # esportes-master
-Construção de site ph,p, js, css3 - Basquete
+Construção de site php, js, css3 - Basquete
 
 ./css/style.css
 ./img
